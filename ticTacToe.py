@@ -1,7 +1,7 @@
 # For Windows it's written--------- system('cls')     ----->>> as 'cls' is command to clear the command prompt
 # But for Linux it should be------- system('clear')   ----->>> as 'clear' is command to clear the terminal
 import random
-from os import system, name
+from os import system
 
 system('cls')
 
